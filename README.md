@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5EF&width=435&lines=hi+i'm+Adam+Siergiej!+👋)](https://git.io/typing-svg)
 
 I'm a third year CS Student at SFU 🦝 interested in Operating Systems & Graphics Computing 💻. <br> 
-- 🌱 I'm currently learning CUDA
+- 🌱 I'm currently learning CUDA while refining my C & C++ programming skills
   
 ### My Strengths
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flask,react,git,js,html,css,)](https://skillicons.dev)
