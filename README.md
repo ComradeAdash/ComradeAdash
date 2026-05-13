@@ -1,6 +1,8 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=187bcd&width=435&lines=hi+i'm+Adam+Siergiej!+👋)](https://git.io/typing-svg)
+# Adam Siergiej — @ComradeAdash
 
-I'm a third year CS Student at SFU 
+I'm a fourth-year Computer Science student at SFU interested in machine learning, software engineering, and software testing :D
+
+[Linkedin](https://www.linkedin.com/in/adamsierg/)
   
 ### My Strengths
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flask,react,git,js,html,css,)](https://skillicons.dev)
