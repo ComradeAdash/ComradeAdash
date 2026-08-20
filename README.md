@@ -1,6 +1,6 @@
 # Adam Siergiej — @ComradeAdash
 
-I'm a fourth-year Computer Science student at SFU interested in machine learning, software engineering, and software testing :D
+I'm a fourth-year Computer Science student at SFU interested in software engineering, software testing, and machine learning! :D
 
 [Linkedin](https://www.linkedin.com/in/adamsierg/)
   
