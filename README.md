@@ -4,7 +4,7 @@ I'm a fourth-year Computer Science student at SFU interested in software enginee
 
 [Linkedin](https://www.linkedin.com/in/adamsierg/)
   
-### My Strengths
+<!-- ### My Strengths
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flask,react,git,js,html,css,)](https://skillicons.dev)
 
 
