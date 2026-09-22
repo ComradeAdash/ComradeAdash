@@ -2,7 +2,7 @@
 
 I'm a fourth-year Computer Science student at SFU interested in software engineering, software testing, and machine learning! :D
 
-[Linkedin](https://www.linkedin.com/in/adamsierg/)
+[Linkedin](https://www.linkedin.com/in/adamsierg/) | [Personal Website](https://comradeadash.github.io/)
   
 <!-- ### My Strengths
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flask,react,git,js,html,css,)](https://skillicons.dev)
