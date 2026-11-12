@@ -2,7 +2,7 @@
 
 I'm a fourth-year Computer Science student at SFU interested in software engineering, software testing, and machine learning! :D
 
-Currently, I'm a Volunteer Software Developer on the Stoney Creek team @ SFU Blueprint
+Currently, I'm a Volunteer Software Developer @ SFU Blueprint
 
 [Linkedin](https://www.linkedin.com/in/adamsierg/) | [Personal Website](https://comradeadash.github.io/)
 
